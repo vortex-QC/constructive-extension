@@ -14,4 +14,5 @@
 
 - Zenodo（冻结版）：DOI [10.5281/zenodo.23019303](https://doi.org/10.5281/zenodo.23019303)（发布后回填）
 - 纲领：`constructive_extension_program_v1.0_CN.md` · 合订全篇：`constructive_extension_full_v1.0_CN.md`
+- English edition (v1.1): all five essays + program + bound volume, files ending 
 - License: CC-BY-4.0（全文档）
