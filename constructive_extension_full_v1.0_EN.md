@@ -4,6 +4,7 @@
 > Predecessor: the constructive-mathematics essay series (the system's mathematical layer)
 > Program and chain see `constructive_extension_program_v1.0_EN.md`
 > Convention: metaphor carries the system reading; mainstream physics facts and system readings are **sidebar-marked throughout** — simplicity that survives questioning
+> v1.2: each essay gains a "Provenance" section — start / hook / turn / academic comparison window / paper lineage / hardcore-reader path
 
 ---
 
@@ -17,7 +18,7 @@ The five essays are one line —
 
 One sentence: **nothing "static" comes for free.** Energy must manifest to be weighed, scale costs rent, readouts cost constraints, the frame must be built — this is constructive mathematics' ledger in the physical world.
 
-Each essay closes with four **verifiable assets**: not asking you to believe, but letting you check by hand.
+Each essay closes with four **verifiable assets**, and its Provenance section adds an **academic comparison window**: who in the history of thought has stood near this view, and where they stopped — take those names back to the mainstream literature, read the two sides against each other, and the increment will show itself.
 
 ---
 
@@ -134,6 +135,23 @@ When materials are compressed (deep sea to Earth's core pressures), the gaps bet
 4. **An atomic-scale gauge**: the flattening is not in the sky; it is in your phone's materials.
 
 (Next in the series: energy has one last piece — what does it live behind? We will hit a second wall, and the universe's most honest table.)
+
+---
+
+## Provenance: how this line grew
+
+**The start**: the seed was a picture in the founder's continuous diffuse thinking one August — "once the gaps are flattened, density is the only thing energy can still say." On September 22 it was ruled into two axes: congestion energy (dwelling's side hitting the ceiling) and the whole energy line that grew after it.
+
+**The hook**: the stuck point was the old problem — "what is energy" is a circular definition; nobody could say where energy lives.
+
+**The turn**: the trilogy did not form smoothly — the demonstration reading's second criterion (J2) returned a **negative reading**; the pre-registered threshold failed, was registered as it stood, thresholds untuned. Of the four catalysis test paths one also failed (compression ratio 5.0 against 10). This line's character emerged precisely from those "failures."
+
+**The academic comparison window**: conservation-from-symmetry rests on Noether's theorem (1918) — mainstream bedrock; "two things cannot share one position" is the Pauli exclusion principle (1925); the thermal-cold decomposition's industry form is the Mie–Grüneisen equation of state (textbook; we borrow it to carry the two-layer reading); chemistry's wall was long erected by Arrhenius (1889) and Sabatier's principle — our increment lies in none of those mechanisms (all belong to academia), but in the naming, the criteriography, and the two-layer reading.
+
+**Paper lineage**: Energy Trilogy DOI 10.5281/zenodo.23005924 (carrying/metering/limit); Energy Lines Batch Two 10.5281/zenodo.23005946 (isolation + shape-constrained energy); replication repo github.com/vortex-QC/energy-lines.
+
+**For the hardcore reader**: trilogy §3 hierarchy chain and the ledger rule's three questions → Batch Two §1.7, the 23 dual-channel theorems (Lean, zero sorry, `IsolationEnergy.lean`) → the repo's `lake build` verifies line by line.
+
 
 ---
 
@@ -287,6 +305,23 @@ The exponential curve of radioactive decay helps, unexpectedly. It has a famous 
 
 ---
 
+## Provenance: the isolation-energy line
+
+**The start**: September 22, 2026 — the founder ruled energy's two axes: beyond "congestion" (flattened gaps), an "isolation" axis: every readable form of energy is read out from behind a layer of matter.
+
+**The hook**: radiation, heat, matter — by what right do the three line up? Answer: by how much they isolate.
+
+**The turn**: the line's key move that day was a **criterion**: a configuration you can define a λ for deserves to be called a layer — the knife that cuts "settled" from "unset." A negative reading is on record too: channel compression ratio 5.0 against a pre-set 10 — threshold untuned, no forcing.
+
+**The academic comparison window**: half-life and the Geiger–Nuttall law (classical nuclear physics, c. 1911); the Arrhenius law (1889) on the chemistry side is the same shape — one wall, two ways through; Sabatier's principle (three faces flowing); the Casimir effect (predicted 1948, since measured — the first-hand case of geometry entering the energy ledger); Pauli exclusion (the occupancy wall). The mechanisms belong entirely to academia; the system's increment is the organizing language — "isolation-configuration strength," "changing layers while dwelling," "the layer criterion."
+
+**Paper lineage**: Energy Lines Batch Two DOI 10.5281/zenodo.23005946 (§1 isolation energy in full + §2 shape-constrained energy); the same record lists 23 Lean theorems; the energy-lines repo's replication/ directory holds the pre-registered criteria and computation JSONs.
+
+**For the hardcore reader**: Batch Two §1.2 (four pins) → §1.3 (closure quartet) → §1.7 (Arrhenius–Gamow dual channel, 23 theorems); `DualityIdem.lean` and `IsolationEnergy.lean`, zero sorry, verifiable.
+
+
+---
+
 # Essay III: Why Do Things Have Sizes
 
 > Constructive Extension · Scale line · anchor tower + cost
@@ -399,6 +434,23 @@ One more outrageous row deserves its own paragraph: the vacuum's energy density 
 4. **An open window**: whether the tower has a bottom is an experimental question — the guns are firing (GRBs, colliders), the limits tightening; and one "uncomputable" pure anchor (120 orders of magnitude), registered as a reading.
 
 (Next in the series: the duality line — "manifest before weighing" ran through these essays, and one sentence has waited in the wings: **what exactly is the structure of "confirming"?** Why can two things "confirming each other" pin a world down?)
+
+---
+
+## Provenance: this line began with the life and death of an axiom
+
+**The start**: September 23, 2026 — the founder's proposal, verbatim: "Every scale is an anchor and has a dynamical lower bound beneath it — even at infinitely small scale, it is still the infinite of its own lower bound."
+
+**The hook**: three meanings of the "scale-invariance axiom" had to be pinned first (bottomlessness or self-similarity? scales chosen or not? dynamical or observational lower bounds?) — pin them or the formalization runs off course.
+
+**The turn**: six rounds of polishing, and the conclusion surprised everyone: **not erected**. The scale constraint folded into "cost" (dwelling needs gaps → gaps have scale → scale is limited), carried by two existing axioms — and "folded in without modification" itself became an axiom test (the birthplace of the accommodation test, later run on isolation energy and projection quantization alike).
+
+**The academic comparison window**: it must be distinguished from the renormalization group — RG says physics runs with scale; this line says the anchor structure is self-consistent at each scale; conflating them reads as denying RG (a written translation-layer rule); the Planck scale is mainstream's "where current theory fails," not a proof of a "smallest scale"; fractals/self-similarity are interval-scoped, this line is whole-axis and untestable directly — stronger. The ceiling numbers themselves: Jeans (1902), Chandrasekhar (1931), TOV (1939) — all mainstream anchors.
+
+**Paper lineage**: the Anchor Tower DOI 10.5281/zenodo.23013949 (band-boundary table / cost reduction / accommodation test / pure-anchor numerics / falsifiable aim points); the founding and six-round deliberation records remain on file as process.
+
+**For the hardcore reader**: Anchor Tower §2 band-boundary table (first-hand anchors, row by row) → §5 pure-anchor irreducibility (`DualityLambda.lean`, 25 items, zero sorry) → P6's `ScaleSandwich.lean` (merged, passing).
+
 
 ---
 
@@ -522,6 +574,23 @@ The largest open point of this reading, the same honesty as the last essay: **wh
 4. **A row of open accounts**: the origin of the Born weights — the greatest unknown, marked honestly.
 
 (Next, the last of the three lines, **the pinning line** — Part Two's "pinning" there grows into a full picture: two things confirming each other pin a line; three pin a plane; four, an entire reference frame. The "reference frame" every physics course hands out is, it turns out, a building that takes four observation points to raise.)
+
+---
+
+## Provenance: from "why is π 3.14" to a line
+
+**The start**: September 25, 2026 — the founder's five rounds of diffuse thinking. Round one's question was naive almost to the point of innocence: in the world of anchor numbers, how is a definite real number (say π) manifested? His own answer: you need the volume of a level surface — "the volume's value is confirmed and discrete, and π is that spontaneous-discrete-characteristic's constraint."
+
+**The hook**: why 3.14 in particular? "It is the two-dimensional projection humans see; the circle and its tangent partition the plane just so" — later refined into the three-layer identity (ontology = squeeze mechanism / cross-convention = value spectrum / within-convention = unique), blocking both misreadings.
+
+**The turn**: round two, "the duality thesis generalizes — there are many other constraints," turned the single case into a thesis; the criterion was applied twice more to exclude the δ family and φ (discriminative power cashed three times); the same day the C4 specialization crown landed — the measurement postulate as the duality thesis's quantum-domain special case.
+
+**The academic comparison window**: von Neumann's Mathematical Foundations of Quantum Mechanics (1932) characterizes measurement by projection operators (idempotent operators) — the idempotent half is shared; the question differs. AAV weak measurement (Aharonov–Albert–Vaidman, PRL 1988) and the Itano Zeno experiments (PRA 1990) are the experimental anchors of "the power of confirming"; Landauer's experimental verification (Bérut et al., Nature 2012) grounds the k_B·T row. The largest openness stands: the origin of the Born weights — not in the system, hung honestly.
+
+**Paper lineage**: The Pairing Structure DOI 10.5281/zenodo.23013940 (Pairing axiom form / pairing core of 7 / deep 12 / eight projection blocks 53 / EBK 10 / meta-constraint rows — 195 Lean items, zero sorry, 20 files); replication repo github.com/vortex-QC/pairing-structure.
+
+**For the hardcore reader**: paper §2 the Pairing axiom (two structure fields) → §3 pairing core of 7 → §5 the three-layer load-bearing pyramid → Appendix A's twenty-file inventory; `DualityPairing.lean` uses zero axioms in four items — readable at the pure-mapping layer.
+
 
 ---
 
@@ -656,6 +725,23 @@ The three lines are now complete: **the scale line** (why sizes), **the duality 
 
 ---
 
+## Provenance: from "what is a sphere's center" to a four-point building
+
+**The start**: September 26, 2026 — the founder's two rounds. Round one asked about level surfaces: "the sphere's center is a moving observation point — from the center, the world outside the level surface necessarily moves." Round two gave two kinds of constraint: "a single observation point: the world beyond the level surface is all motion; many observation points: between point and point there is a line, and on the line the projected world does not move." The ruling was four characters: "Both stand. File it."
+
+**The hook**: rows three and four of the hierarchy table (plane/frame) were extrapolation — no quantitative test yet; how to promote?
+
+**The turn**: two formalization rounds the same day: the two-point core (the line constructively exists) → the network core, 25 items (the order-structure face + order independence); on 9-28 six dimension-semantics items followed (pinning dimension = k−1, saturation, the chirality determinant algebra) — "the static frame's manifestation complete" acquired theorem form. The T-D2 instance item failed to compile in budget and was moved out on account under the pre-registered downgrade clause — demotion with a paper trail is discipline, not concealment.
+
+**The academic comparison window**: gauge fixing treats the frame as a **conventional choice**; quantum reference-frame theory (Bartlett–Rudolph–Spekkens, Rev. Mod. Phys. 2007) treats it as a **given resource** — neither asks where the frame comes from; two-body reduction (textbook) and the ICRF (Ma et al., Astron. J. 1998 — hundreds of quasars pinning a celestial frame) are the physics and engineering comparison faces. The system's increment: reading the frame as the **manifested product of an observation-point network**, with a saturation criterion for "frame complete."
+
+**Paper lineage**: Observation-Point Pinning DOI 10.5281/zenodo.23015666 (pinning core / network core / dimension semantics / ℝ² instantiation / idempotent family — five files, zero sorry); replication repo github.com/vortex-QC/observation-point-pinning.
+
+**For the hardcore reader**: paper §3 pinning core (`DualityPinning.lean`, four items zero-axiom) → §4 network core (`DualityNet.lean`) → §7 dimension semantics (`PinningDim.lean`) → Appendix A's full inventory; `lake build` verifies.
+
+
+---
+
 ---
 
 ## Epilogue: One line, gathered
@@ -670,4 +756,8 @@ Read together:
 
 The extension closes here. It and the constructive-mathematics essays say one thing from two sides: **stillness is not in the background — numbers must cluster, readouts cost constraints, reference frames must be built.** The world does not hand you a still stage and then let you perform; the stage itself is pinned out by the performance.
 
-Twenty verifiable assets are scattered across the five essays' endings, all public data or one line of arithmetic — welcome to try every one.
+Twenty verifiable assets are scattered across the five essays' endings, all public data or one line of arithmetic — welcome to try every one. Each essay's Provenance section offers another road: take the names in the academic comparison window back to the mainstream literature; take the DOIs in the paper lineage back to the original papers. Both roads lead to the same place — go and see for yourself.
+
+---
+
+*The Constructive Extension, full volume v1.2 (bound) | 2026-09-29 | Vortex | v1.2: each essay gains a Provenance section (six-part template; the academic comparisons are all first-hand verified citations); v1.1 EN bilingual.*
